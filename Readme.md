@@ -1,1 +1,12 @@
 个人学习NGUI的使用，学习项目，没啥特别的，看图就行
+https://github.com/1264600905/NGUI_study/blob/master/note/01.png
+https://github.com/1264600905/NGUI_study/blob/master/note/02.png
+https://github.com/1264600905/NGUI_study/blob/master/note/03.png
+https://github.com/1264600905/NGUI_study/blob/master/note/04.png
+https://github.com/1264600905/NGUI_study/blob/master/note/05.png
+https://github.com/1264600905/NGUI_study/blob/master/note/06.png
+https://github.com/1264600905/NGUI_study/blob/master/note/07.png
+https://github.com/1264600905/NGUI_study/blob/master/note/08.png
+https://github.com/1264600905/NGUI_study/blob/master/note/09.png
+https://github.com/1264600905/NGUI_study/blob/master/note/10.png
+https://github.com/1264600905/NGUI_study/blob/master/note/11.png
