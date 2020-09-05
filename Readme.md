@@ -1,4 +1,4 @@
-个人学习NGUI的使用，学习项目，没啥特别的，看图就行
+个人学习NGUI的使用，学习项目，没啥特别的，就是熟悉一下NGUI的基本使用，看图就行
 ![image](https://github.com/1264600905/NGUI_study/blob/master/note/01.png)
 ![image](https://github.com/1264600905/NGUI_study/blob/master/note/02.png)
 ![image](https://github.com/1264600905/NGUI_study/blob/master/note/03.png)
